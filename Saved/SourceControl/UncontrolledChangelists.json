@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Input/IMC_Default.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Input/Actions/IA_Crouched.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/Mannequins/Materials/Manny/Manny_Blue.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/Mannequins/Materials/Manny/Manny_Blue2.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/RF/XGMY4ICSPUTBVZP9PLWNW3.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/NF/IHCY69XBAW95TUHUQD4E6D.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Input/Actions/IA_Vault.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Crouched/Crouch_Idle.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Crouched/Crouh_Walk.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Locomotion/Crouched/Crouch_Idle.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Locomotion/Crouched/Crouh_Walk.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Locomotion/Idle_Break.uasset",
+				"C:/IIT/IIT Work/IIT work/2nd year 1st sem/Game engine/RPG_Tutorial_series/Content/Characters/RPG_Character/Locomotion/Walk_Stop.uasset"
+			]
+		}
+	]
+}
